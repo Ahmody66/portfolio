@@ -6,14 +6,13 @@ title: Ahmed Ali Hassan  # the website title (if blank, full name will be used i
 first_name: Ahmed
 middle_name: Ali
 last_name: Hassan
-contact_note: (+20)1002803073
+contact_note: (+20) 1002803073
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Business Administration student with hands-on experience in operations structuring, workflow optimization, and performance management. Experienced in process digitalization and cross-departmental systems integration.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: business administration, operations, business analysis, project management # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -278,8 +277,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hassan]
+  first_name: [Ahmed, A.]
 
   style: apa
   locale: en
