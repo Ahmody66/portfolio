@@ -2,33 +2,50 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Business Administration Student · Operations & People Focus · Deraya University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📍 Cairo / El-Minya, Egypt</p>
+    <p>📅 Born: October 11, 2006</p>
+    <p>📞 (+20) 1002803073</p>
+    <p>📧 ahmedalihassanwork@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm **Ahmed Ali Hassan** — a final-year Business Administration student at Deraya Business School, Deraya University (GPA: 3.60/4.00, expected graduation June 2026), with concentrations in Business Administration and Management.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I sit at the intersection of people, processes, and data. My experience spans operations optimization at a multinational manufacturer (Delta Galil), marketing campaigns at a growing SME (Mix Perfumes), and organizational change management at a startup (Marketria). Across all three, one thread ties everything together: **designing systems that help teams work better**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm drawn to roles in **Operations**, **Business Analysis**, and **People Operations** — places where an analytical mindset and a people-first instinct aren't in competition, but complementary.
+
+## What I've Been Working On
+
+**🎓 Graduation Research** — Quantitative study examining the impact of ESG disclosure scores on stock returns for EGX100-listed companies (2022–2024), using panel data models (Pooled OLS, Fixed/Random Effects) in RStudio. Key finding: Total ESG and Governance scores are significant predictors of stock returns.
+
+**⚙️ Delta Galil** — Designed and deployed an Asana-based workflow and performance management structure connecting HR, Operations, and Industrial Engineering across all departments and factories.
+
+**📣 Mix Perfumes** — Led end-to-end marketing campaigns (TikTok, Facebook, Instagram) and conducted market research that directly shaped new product launches.
+
+**🔄 Marketria** — Implemented a Trello-based project management system and designed training programs to support organizational change transitions.
+
+## Skills at a Glance
+
+**Project Management:** Asana · Trello · Jira · Monday.com · MS Teams
+
+**Analytics:** RStudio · Python (Basic) · SQL (Basic) · Power BI · MS Excel (Advanced) · SPSS
+
+**Core Areas:** Business Analysis · Process Optimization (Lean / Kaizen) · HR Systems · Strategic Planning
+
+**Languages:** Arabic (Native) · English (Professional)
+
+---
+
+Currently open to internship and entry-level opportunities in **Operations**, **Business Analysis**, **HR/People Operations**, or **Management Trainee programs** — based in Egypt or remote.
