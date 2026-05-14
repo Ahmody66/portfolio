@@ -15,9 +15,13 @@ profile:
     <p>📞 (+20) 1002803073</p>
     <p>📧 ahmedalihassanwork@gmail.com</p>
 
-news: false
 selected_papers: false
 social: true
+news: false
+latest_posts:
+  enabled: false
+announcements:
+  enabled: false
 ---
 
 Hi, I'm **Ahmed Ali Hassan** — a final-year Business Administration student at Deraya Business School, Deraya University (GPA: 3.60/4.00, expected graduation June 2026), with concentrations in Business Administration and Management.
@@ -30,7 +34,7 @@ I'm drawn to roles in **Operations**, **Business Analysis**, and **People Operat
 
 **🎓 Graduation Research** — Quantitative study examining the impact of ESG disclosure scores on stock returns for EGX100-listed companies (2022–2024), using panel data models (Pooled OLS, Fixed/Random Effects) in RStudio. Key finding: Total ESG and Governance scores are significant predictors of stock returns.
 
-**⚙️ Delta Galil** — Designed and deployed an Asana-based workflow and performance management structure connecting HR, Operations, and Industrial Engineering across all departments and factories.
+**⚙️ Delta Galil** — Designed and deployed an Asana-based workflow and performance management structure connecting HR, Operations, and IE departments, improving communication efficiency, task assignment, systematic project management, dashboard monitoring, and cross-departmental collaboration across all departments and manufactures.
 
 **📣 Mix Perfumes** — Led end-to-end marketing campaigns (TikTok, Facebook, Instagram) and conducted market research that directly shaped new product launches.
 
